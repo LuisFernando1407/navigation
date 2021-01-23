@@ -9,6 +9,6 @@ Submodule of repository <a href="https://github.com/LuisFernando1407/pidm">PIDM<
   - In development...
 
 - App preview
-<img src='assets/screenshot/home.jpeg' width='30%' height='30%'/>
+<img src='assets/screenshot/home.png' width='30%' height='30%'/>
 
-<img src='assets/screenshot/about.jpeg' width='30%' height='30%'/>
+<img src='assets/screenshot/about.png' width='30%' height='30%'/>
