@@ -1,4 +1,4 @@
-# Votes by city
+# Navigation
 Submodule of repository <a href="https://github.com/LuisFernando1407/pidm">PIDM</a>
 
 - Execution
