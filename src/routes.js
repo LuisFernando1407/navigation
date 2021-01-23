@@ -3,12 +3,15 @@ import { createStackNavigator } from 'react-navigation-stack'
 import { createAppContainer } from 'react-navigation'
 
 import Header from '../src/components/Header'
+
 import Home from '../src/pages/Home'
 import About from '../src/pages/About'
+import Register from '../src/pages/Register'
 
 const Router = createStackNavigator({
         HomeScreen: Home,
-        AboutScreen: About
+        AboutScreen: About,
+        RegisterScreen: Register
     }, {
         headerMode: 'screen',
         defaultNavigationOptions: ({ navigation }) => ({
