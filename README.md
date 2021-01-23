@@ -3,7 +3,7 @@ Submodule of repository <a href="https://github.com/LuisFernando1407/pidm">PIDM<
 
 - Execution
   - <b>npm install</b>
-  - After <b>npm run android</b> or <b>npm run ios</>
+  - After <b>npm run android</b> or <b>npm run ios</b>
 
 - Status
   - In development...
