@@ -9,7 +9,7 @@ const Home = ( { navigation } ) => {
     const { width } = Dimensions.get('window')
 
     useEffect(() => {
-        navigation.setParams({'title': 'Home'})
+        navigation.setParams({title: 'Home'})
     }, [])
 
     return (

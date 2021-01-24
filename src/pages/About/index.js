@@ -8,8 +8,8 @@ const About = ( { navigation } ) => {
 
     useEffect(() => {
         navigation.setParams({
-            'title': 'Sobre', 
-            'iconBack': true
+            title: 'Sobre', 
+            iconBack: true
         })
     }, [])
 

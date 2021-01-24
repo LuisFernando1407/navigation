@@ -16,3 +16,11 @@ Submodule of repository <a href="https://github.com/LuisFernando1407/pidm">PIDM<
 <img src='assets/screenshot/register.png' width='30%' height='30%'/>
 
 <img src='assets/screenshot/register_modal.png' width='30%' height='30%'/>
+
+<img src='assets/screenshot/imc_test_1.png' width='30%' height='30%'/>
+
+<img src='assets/screenshot/imc_test_1_result.png' width='30%' height='30%'/>
+
+<img src='assets/screenshot/imc_test_2.png' width='30%' height='30%'/>
+
+<img src='assets/screenshot/imc_test_2_result.png' width='30%' height='30%'/>

@@ -17,8 +17,8 @@ const Register = ( { navigation } ) => {
 
     useEffect(() => {
         navigation.setParams({
-            'title': 'Cadastro', 
-            'iconBack': true
+            title: 'Cadastro', 
+            iconBack: true
         })
     }, [])
 
@@ -36,17 +36,17 @@ const Register = ( { navigation } ) => {
 
     const validate = () => {
         if(name.length == 0 || /^\s*$/.test(name)){
-            Alert.alert('Nome obrigatório')
+            Alert.alert("Nome obrigatório")
             return
         }
         
         if(age.length == 0 || /^\s*$/.test(age)){
-            Alert.alert('Idade obrigatório')
+            Alert.alert("Idade obrigatório")
             return
         }
 
         if(email.length == 0 || /^\s*$/.test(email)){
-            Alert.alert('Email obrigatório')
+            Alert.alert("Email obrigatório")
             return
         }
 
