@@ -118,7 +118,7 @@ const Imc = ( { navigation } ) => {
     
             <Text style={{fontSize: 16, marginTop: 20}} >Preencha os dados do formulário acima para calcular seu IMC 😁</Text>
                 
-            <Button handle={getSituation} title="Calculate"/>
+            <Button handle={getSituation} title="Calcular"/>
 
         </View>
     )
